@@ -27,3 +27,10 @@
 23. cd gitTutorial - переходимо в папку gitTutorial
 
 Для того щоб вийти з режиму перегляду комітів використовуйте клавішу q (стосується команди №20 і №21)
+
+GIT CONFLICT
+
+Accept Current Change - Прийняти поточні зміни
+Accept Incoming Change - Прийняти вхідні зміни
+Accept Both Changes - Прийняти обидві зміни
+Compare Changes - Порівняти зміни
